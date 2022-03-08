@@ -1,0 +1,17 @@
+{
+  "name": "siteproject",
+  "version": "0.1.0",
+  "description": "This site is for testing the deployment in heroku and just for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "author": "Rabindra Kumar Sah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "handlebars": "^4.7.7",
+    "hbs": "^4.2.0"
+  }
+}
